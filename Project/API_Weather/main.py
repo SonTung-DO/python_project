@@ -1,3 +1,4 @@
+#API Weather app main
 import sys
 import requests
 from PyQt5.QtWidgets import ( QApplication, QWidget, QLabel,
